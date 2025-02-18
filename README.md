@@ -2,7 +2,7 @@
 
 This Python project uses an example of an agent deciding whether to wait for a table at a restaurant.
 Machine learning is used to help the agent make choices in order to come to a final decision. The use of a
-decision tree, probability, and uncertainity allows for different scenarios and choices. A brief description for each
+decision tree, probability, and uncertainty allows for different scenarios and choices. A brief description for each
 Python file in the repository is below.
 
 **Agent.py:** The Agent module is the rudimentary AI agent used in the program. It makes its decisions based on certain factors
