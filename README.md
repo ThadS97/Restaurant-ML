@@ -17,7 +17,7 @@ in the program when it comes to the environment's conditions.
 the howManyPatrons() function. All 'leaf' nodes are the values True, False, or None. When a leaf node is reached, the decision tree stops
 and the agent has made their final decision.
 
-**RestaurantWait.py:** The RestaurantWait module is where the main() function is; this is where the end user determines whether to
+**RestaurantScenario.py:** The RestaurantScenario module is where the main() function is; this is where the end user determines whether to
 buy a reservation or not. After that, the howManyPatrons() function is invoked which goes through the decision tree. When True, False,
 or None is returned, the program stops.
 
